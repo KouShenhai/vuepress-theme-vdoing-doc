@@ -7,4 +7,4 @@
 
 [主题仓库](https://github.com/KouShenhai/KCloud-Platform-Alibaba)
 
-[本仓库的gitee镜像](https://gitee.com/xugaoyi/KCloud-Platform-Alibaba)
+[本仓库的gitee镜像](https://gitee.com/KouShenhai/KCloud-Platform-Alibaba)
