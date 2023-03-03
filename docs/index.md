@@ -46,8 +46,8 @@ postList: none
   <tbody>
     <tr>
       <td align="center" valign="middle">
-        <img :src="$withBase('/img/qrcode/qqq.png')" alt="群号: 694387113" class="no-zoom" style="width:120px;margin: 10px;">
-        <p>SpringBoot/SpringCloud/分布式架构/大数据开发 QQ群: 218686225</p>
+        <img :src="$withBase('/img/qrcode/qqq.png')" alt="群号: 465450496" class="no-zoom" style="width:120px;margin: 10px;">
+        <p>KCloud-Platform开源交流 QQ群: 465450496</p>
       </td>
     </tr>
   </tbody>

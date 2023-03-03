@@ -3,7 +3,7 @@
 
 <h2 align="center">KCloud-Platform-Alibaba</h2>
 
-[在线文档(国内源)](https://doc.xugaoyi.com/)
+[在线文档(国内源)](https://github.com/KouShenhai)
 
 [主题仓库](https://github.com/KouShenhai/KCloud-Platform-Alibaba)
 
